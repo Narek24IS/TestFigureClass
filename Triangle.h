@@ -21,10 +21,6 @@ public:
                         this->c + triangle.getSide(3)};
     }
 
-    bool operator ==(const Triangle &triangle) const = default;
-
-    bool operator !=(const Triangle &triangle) const = default;
-
     bool operator<(const Triangle &triangle) const {
         return (this->getPerimeter() < triangle.getPerimeter());
     }
