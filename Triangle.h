@@ -5,7 +5,6 @@
 class Triangle : public Figure {
 public:
     Triangle(int s1, int s2, int s3);
-
     Triangle();
 
     vector<int> getSides() const override;
