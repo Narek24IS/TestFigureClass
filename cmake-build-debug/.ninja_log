@@ -1,0 +1,6 @@
+# ninja log v5
+11	1245	7057617540781864	CMakeFiles/TestFigureClass.dir/Figure.cpp.obj	1bd3fb924a00f077
+1308	1590	7057617544099902	TestFigureClass.exe	8e16a353948a3881
+1	320	7057618403755787	build.ninja	119d0300bc162051
+16	1217	7057617540448344	CMakeFiles/TestFigureClass.dir/main.cpp.obj	ab70e83c2fd97c2c
+5	1307	7057617541471713	CMakeFiles/TestFigureClass.dir/Triangle.cpp.obj	d3322e9b1b49677e
