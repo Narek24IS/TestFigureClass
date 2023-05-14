@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1684071046 source:d:\Загрузки\figureclass\figureclass\src\figure.cpp
+	"Figure.h"
+
+1684071046 d:\Загрузки\figureclass\figureclass\include\figure.h
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
